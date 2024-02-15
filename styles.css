@@ -1,0 +1,43 @@
+#full {
+    border: 5px;
+    padding: 30px;
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 10em 40em 0em 40em;
+}
+
+#screen {
+    background-color: blue;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#buttonpad {
+    background-color: green;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#numbuttons {
+
+}
+
+#opbuttons {
+
+}
+
+.numberbtn {
+    padding: 5px;
+    /* margin: 2px; */
+    background-color: aqua;
+}
+
+.operatorbtn {
+    
+}
+
